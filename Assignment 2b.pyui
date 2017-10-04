@@ -1,0 +1,88 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {573, 516}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : false,
+        "frame" : "{{72, 107}, {150, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{212, 242}, {150, 32}}",
+          "uuid" : "1EED5F22-1245-458D-A47F-20FFDCE7E740",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "second",
+          "name" : "second_label",
+          "font_size" : 18
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{72, 287}, {239, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{212, 242}, {150, 32}}",
+          "uuid" : "A7ED98B2-0C32-4C30-BC03-E42AB12AD5E7",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "height",
+          "name" : "height_label",
+          "font_size" : 18
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{173, 200}, {138, 32}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "calculate_button_touch_up_inside",
+          "frame" : "{{247, 242}, {80, 32}}",
+          "title" : "calculate",
+          "uuid" : "7A55D118-8260-4197-AB54-8DF5E7E0BEB4",
+          "class" : "Button",
+          "name" : "calculate_button",
+          "font_size" : 15
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{323, 107}, {200, 32}}",
+        "class" : "TextField",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{187, 242}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "D63312F0-40DB-462D-95A2-2871F14A2EBB",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "name" : "second_textbox",
+          "font_size" : 17
+        }
+      }
+    ],
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    }
+  }
+]
